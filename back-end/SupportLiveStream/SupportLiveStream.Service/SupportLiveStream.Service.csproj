@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PhoneService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SupportLiveStream.Api\SupportLiveStream.Api.csproj" />
+    <ProjectReference Include="..\SupportLiveStream.Data\SupportLiveStream.Data.csproj" />
+    <ProjectReference Include="..\SupportLiveStream.Model\SupportLiveStream.Model.csproj" />
+  </ItemGroup>
+
+</Project>

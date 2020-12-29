@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n94/B0jNgY0xmublCULPzPP8P2Ohoj2UKtDTOOyj4npoSHhrfGpEHsWOExBjzxMKWR26wRWFNzV2hkviUh26uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\support_live_stream\\support_live_stream\\support_live_stream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

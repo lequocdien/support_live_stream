@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "5fd8d5b2d73c2f491b2d3a2a"
+  },
+  "Username": "admin",
+  "Password": "0000",
+  "Role": "ADMIN",
+  "IsActive": true,
+  "FirstName": "Lê",
+  "LastName": "Diện",
+  "Email": "dql1998@gmail.com",
+  "Address": "Bình Định",
+  "CreatedTime": {
+    "$date": "2020-12-15T15:26:42.702Z"
+  },
+  "PageTokens": [
+    {
+      "AppId": "840201613381836",
+      "UserId": null,
+      "Application": "Hỗ trợ Livestream",
+      "ProfileId": "102507445016922",
+      "AccessToken": "EAAL8KK60kMwBAIJzqqOaIW02ZCLO7TLyOYBUuwnKFZATBGergPCJlUHsaaQg8DZAIsEXPAx4tXpbvGZCkdaXUdTVnhG9KFYvzZAAJByUSvKtw4IOdpqKEDBEVdm3HVuvSNynrQyIT7Rmg5mwWE06m7FRJsvvqkjdLPZCvXleBOCgZDZD",
+      "IsValid": true,
+      "ExpiresAt": 0,
+      "IssuedAt": 1607919080,
+      "Scopes": [
+        "email",
+        "publish_video",
+        "pages_show_list",
+        "pages_messaging",
+        "publish_to_groups",
+        "pages_read_engagement",
+        "pages_manage_metadata",
+        "pages_read_user_content",
+        "pages_manage_ads",
+        "pages_manage_posts",
+        "pages_manage_engagement",
+        "public_profile"
+      ],
+      "CreatedTime": {
+        "$date": "2020-12-25T14:14:03.167Z"
+      }
+    }
+  ],
+  "UserTokens": [
+    {
+      "AppId": "840201613381836",
+      "UserId": null,
+      "Application": "Hỗ trợ Livestream",
+      "AccessToken": "EAAL8KK60kMwBAEKjW6ZC4gGcVaEpMY5OZA6FQEoXwsYZCGW6kRvXVup6Gr6GPuiFOlXqI1Mu6w14pTEMuEsnLsqdWfZB5TsmDrOwyZBap86pi8R7LZB8gtiZAcx1Oe8DzCnTPrxQNHDMBTp23DXrJV7CE5cVbqmKWadZBixSxOviNAZDZD",
+      "IsValid": true,
+      "ExpiresAt": 0,
+      "IssuedAt": 1607919080,
+      "Scopes": [
+        "email",
+        "publish_video",
+        "pages_show_list",
+        "pages_messaging",
+        "publish_to_groups",
+        "pages_read_engagement",
+        "pages_manage_metadata",
+        "pages_read_user_content",
+        "pages_manage_ads",
+        "pages_manage_posts",
+        "pages_manage_engagement",
+        "public_profile"
+      ],
+      "CreatedTime": {
+        "$date": "2020-12-25T14:14:02.466Z"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fda564164a5c33e54cfa133"
+  },
+  "Username": "ledien",
+  "Password": "0000",
+  "Role": "USER",
+  "IsActive": true,
+  "FirstName": "Lê",
+  "LastName": "Diện",
+  "Email": "dql1998@gmail.com",
+  "Address": "Bình Định",
+  "CreatedTime": {
+    "$date": "2020-12-15T15:26:42.702Z"
+  },
+  "PageTokens": [
+    {
+      "AppId": "840201613381836",
+      "UserId": null,
+      "Application": "Hỗ trợ Livestream",
+      "ProfileId": "102507445016922",
+      "AccessToken": "EAAL8KK60kMwBAIF6hduFVILacQGvBAG9omQiHIfiIAeFNePs9dWqnW5ZCInqRrKMWNskJzpjTa7KwlynUdJOX9eKDpZCS9tsCX32UzgWkxmF1GjQ9ZBh3f1gEbuCiD89CULJmsDu3siF1ZBPJRs5ZChUagdG9lgAL1L64ZB0pmPlvYtxC5yvdx",
+      "IsValid": true,
+      "ExpiresAt": 0,
+      "IssuedAt": 1607919080,
+      "Scopes": [
+        "email",
+        "publish_video",
+        "pages_show_list",
+        "pages_messaging",
+        "publish_to_groups",
+        "pages_read_engagement",
+        "pages_manage_metadata",
+        "pages_read_user_content",
+        "pages_manage_ads",
+        "pages_manage_posts",
+        "pages_manage_engagement",
+        "public_profile"
+      ],
+      "CreatedTime": {
+        "$date": "2020-12-26T15:07:05.204Z"
+      }
+    }
+  ],
+  "UserTokens": [
+    {
+      "AppId": "840201613381836",
+      "UserId": null,
+      "Application": "Hỗ trợ Livestream",
+      "AccessToken": "EAAL8KK60kMwBAA0hOgqTuq8TvRzR6cZCliKYYtvVZBwLYfHY8AzzdeqEWU40aYEXxukZCGUch47eZCtJDfZBA85ZCoAwR5deAKPyLwNa0a7PngZC8XgEgLX5FLEXyk6MYSQEcZAsEOelOLHZBus872wa60rWnwd5qdOsgC4rSvY8YqQZDZD",
+      "IsValid": true,
+      "ExpiresAt": 0,
+      "IssuedAt": 1607919080,
+      "Scopes": [
+        "email",
+        "publish_video",
+        "pages_show_list",
+        "pages_messaging",
+        "publish_to_groups",
+        "pages_read_engagement",
+        "pages_manage_metadata",
+        "pages_read_user_content",
+        "pages_manage_ads",
+        "pages_manage_posts",
+        "pages_manage_engagement",
+        "public_profile"
+      ],
+      "CreatedTime": {
+        "$date": "2020-12-26T15:06:54.130Z"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fe89c34ade6bc0d68a9370e"
+  },
+  "Username": "lea",
+  "Password": "0000",
+  "Role": "USER",
+  "IsActive": true,
+  "FirstName": "Lê",
+  "LastName": "A",
+  "Email": "dql1998@gmail.com",
+  "Address": "Bình Định",
+  "CreatedTime": {
+    "$date": "2020-12-15T15:26:42.702Z"
+  },
+  "PageTokens": [
+    {
+      "AppId": "840201613381836",
+      "UserId": null,
+      "Application": "Hỗ trợ Livestream",
+      "ProfileId": "102507445016922",
+      "AccessToken": "EAAL8KK60kMwBADkZBIrd63QRxirkgHYZBc9L1IA91IeV4KGAV6JSOr6qtq9PF248xU6sJI0xckZAvg5lDnfU6Jp8JBpR2SP2vZCaJo3YVHLaPLENwZAhhmANsM0IjdLRuRGGRmCewFxyrq7ZAzZBi5XO7SFAgWMQvkrLnujhm0k5AZDZD",
+      "IsValid": true,
+      "ExpiresAt": 0,
+      "IssuedAt": 1607919080,
+      "Scopes": [
+        "email",
+        "publish_video",
+        "pages_show_list",
+        "pages_messaging",
+        "publish_to_groups",
+        "pages_read_engagement",
+        "pages_manage_metadata",
+        "pages_read_user_content",
+        "pages_manage_ads",
+        "pages_manage_posts",
+        "pages_manage_engagement",
+        "public_profile"
+      ],
+      "CreatedTime": {
+        "$date": "2020-12-27T15:20:42.134Z"
+      }
+    }
+  ],
+  "UserTokens": [
+    {
+      "AppId": "840201613381836",
+      "UserId": null,
+      "Application": "Hỗ trợ Livestream",
+      "AccessToken": "EAAL8KK60kMwBAFiSgEngXkcNYBp0NKvNzLH9PShlUoByBy7geZBb1MwLPdccemKqRcOmlnz2xj9ZBh80LyqhvbkZBZBvxZCPkqbzZBihbhhqUvMNCgr6CMQCb4nUNAzQrLNaJNbjX06Vn59DGgmDlhrixr2HpCXlMhfNKpLRlm5AZDZD",
+      "IsValid": true,
+      "ExpiresAt": 0,
+      "IssuedAt": 1607919080,
+      "Scopes": [
+        "email",
+        "publish_video",
+        "pages_show_list",
+        "pages_messaging",
+        "publish_to_groups",
+        "pages_read_engagement",
+        "pages_manage_metadata",
+        "pages_read_user_content",
+        "pages_manage_ads",
+        "pages_manage_posts",
+        "pages_manage_engagement",
+        "public_profile"
+      ],
+      "CreatedTime": {
+        "$date": "2020-12-27T15:20:41.364Z"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fe89c39ade6bc0d68a9370f"
+  },
+  "Username": "leb",
+  "Password": "0000",
+  "Role": "USER",
+  "IsActive": false,
+  "FirstName": "Lê",
+  "LastName": "B",
+  "Email": "dql1998@gmail.com",
+  "Address": "Bình Định",
+  "CreatedTime": {
+    "$date": "2020-12-15T15:26:42.702Z"
+  }
+}]

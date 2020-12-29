@@ -1,0 +1,438 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Web\\SupportLiveStream.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\SupportLiveStream.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\SupportLiveStream.Api.csproj",
+        "projectName": "SupportLiveStream.Api",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\SupportLiveStream.Api.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj",
+        "projectName": "SupportLiveStream.Common",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Data\\SupportLiveStream.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Data\\SupportLiveStream.Data.csproj",
+        "projectName": "SupportLiveStream.Data",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Data\\SupportLiveStream.Data.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj",
+        "projectName": "SupportLiveStream.Model",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Service\\SupportLiveStream.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Service\\SupportLiveStream.Service.csproj",
+        "projectName": "SupportLiveStream.Service",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Service\\SupportLiveStream.Service.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\SupportLiveStream.Api.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\SupportLiveStream.Api.csproj"
+              },
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Data\\SupportLiveStream.Data.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Data\\SupportLiveStream.Data.csproj"
+              },
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Model\\SupportLiveStream.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Web\\SupportLiveStream.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Web\\SupportLiveStream.Web.csproj",
+        "projectName": "SupportLiveStream.Web",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Web\\SupportLiveStream.Web.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Common\\SupportLiveStream.Common.csproj"
+              },
+              "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Service\\SupportLiveStream.Service.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Service\\SupportLiveStream.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4VQ/60SPzkuHTqChSI+CqgAAAAACAAAAAAAQZgAAAAEAACAAAAB2HzMR1mrpxQOUxHLgX5i0Cru1fTpDCiYFN+Ww/P16DgAAAAAOgAAAAAIAACAAAAC5NI+5jbt5zDn4Lv8CEZO9Rw2PqDWDRUh2vtQqxkQqwzAAAACDxLWE3o7m7L4rp5ET0EFGdLlvU1Q9+fzusQfyuR7K1AyVbzBIhspBdxfwBi9kjldAAAAApIozfe7NncrksabYo2paCJAtLNQMS4ceupHU5r1qz0XwB3uYxIN9ES1R34PNLMSqMrKjbiziqIAqTuk5UhPIIA==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://198.37.116.30/www.supportlivestream.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/29/2020 09:28:26</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/29/2020 16:54:05</publishTime>
+    </File>
+    <File Include="ClosedXML.dll">
+      <publishTime>05/25/2020 10:43:46</publishTime>
+    </File>
+    <File Include="DnsClient.dll">
+      <publishTime>03/31/2020 21:28:56</publishTime>
+    </File>
+    <File Include="DocumentFormat.OpenXml.dll">
+      <publishTime>06/06/2017 22:59:22</publishTime>
+    </File>
+    <File Include="ExcelNumberFormat.dll">
+      <publishTime>03/13/2020 09:36:50</publishTime>
+    </File>
+    <File Include="log4net.config">
+      <publishTime>12/16/2020 19:34:22</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>09/15/2019 21:01:48</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.JsonPatch.dll">
+      <publishTime>09/23/2020 23:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll">
+      <publishTime>09/23/2020 23:15:52</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>06/24/2019 19:50:38</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/24/2019 19:53:26</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>06/24/2019 19:54:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>06/24/2019 19:59:32</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/24/2019 19:56:06</publishTime>
+    </File>
+    <File Include="MongoDB.Bson.dll">
+      <publishTime>10/15/2020 21:23:10</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.Core.dll">
+      <publishTime>10/15/2020 21:23:18</publishTime>
+    </File>
+    <File Include="MongoDB.Driver.dll">
+      <publishTime>10/15/2020 21:23:30</publishTime>
+    </File>
+    <File Include="MongoDB.Libmongocrypt.dll">
+      <publishTime>11/13/2019 20:35:30</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 23:10:18</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="runtimes/win/native/libzstd.dll">
+      <publishTime>10/15/2020 21:16:06</publishTime>
+    </File>
+    <File Include="runtimes/win/native/snappy32.dll">
+      <publishTime>10/15/2020 21:16:06</publishTime>
+    </File>
+    <File Include="runtimes/win/native/snappy64.dll">
+      <publishTime>10/15/2020 21:16:06</publishTime>
+    </File>
+    <File Include="SharpCompress.dll">
+      <publishTime>02/27/2019 12:59:52</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Api.dll">
+      <publishTime>12/16/2020 23:07:06</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Api.pdb">
+      <publishTime>12/16/2020 23:07:06</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Common.dll">
+      <publishTime>12/16/2020 19:49:18</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Common.pdb">
+      <publishTime>12/16/2020 19:49:18</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Data.dll">
+      <publishTime>12/17/2020 01:14:02</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Data.pdb">
+      <publishTime>12/17/2020 01:14:02</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Model.dll">
+      <publishTime>12/17/2020 01:14:01</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Model.pdb">
+      <publishTime>12/17/2020 01:14:01</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Service.dll">
+      <publishTime>12/17/2020 01:14:03</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Service.pdb">
+      <publishTime>12/17/2020 01:14:03</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Web.deps.json">
+      <publishTime>12/17/2020 01:14:12</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Web.dll">
+      <publishTime>12/17/2020 01:14:04</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Web.exe">
+      <publishTime>12/17/2020 01:14:04</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Web.pdb">
+      <publishTime>12/17/2020 01:14:04</publishTime>
+    </File>
+    <File Include="SupportLiveStream.Web.runtimeconfig.json">
+      <publishTime>12/16/2020 19:49:23</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/24/2019 19:49:50</publishTime>
+    </File>
+    <File Include="System.IO.Packaging.dll">
+      <publishTime>06/11/2016 23:13:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/17/2020 01:14:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

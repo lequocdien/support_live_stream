@@ -1,0 +1,66 @@
+.MyTemplate-logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.MyTemplate-sider{
+  /* min-width: 300px!important; */
+}
+
+.MyTemplate-header{
+
+}
+
+.MyTemplate-content{
+  padding: 24px 24px 0px 24px;
+  min-height: 280px;
+}
+
+.MyTemplate-content-header{
+  margin: 0px 0px 16px 0px;
+}
+
+.MyTemplate-trigger{
+  color: white;
+  font-size: 30px;
+  line-height: 64px;
+}
+
+.MyTemplate-content-body{
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+}
+
+.MyTemplate-footer{
+  text-align: center;
+}
+
+.LiveComment-list .ant-spin-nested-loading {
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.LiveComment-list .ant-card.ant-card-bordered{
+  height: 100%;
+}
+
+.ManagerAccount-my_account .ant-col{
+  width: 100%;
+}
+
+.ant-space-item .my-template__header--avatar{
+  line-height: normal!important;
+}
+
+.my-template__header--avatar .ant-avatar:hover{
+  color: aqua;
+  cursor: pointer;
+}
+
+.ant-popover-title{
+  text-align: center;
+  color: #1890ff;
+}

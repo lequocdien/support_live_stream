@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhdIkPZdF+fpVaRaLV1Q0iQQwSS2DiF5mYlmIag4ts1WU+/mSyUlZFYotGwsmVS6T1xTWiq/kf6ENWkQUV8uRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\support_live_stream\\back-end\\SupportLiveStream\\SupportLiveStream.Api\\SupportLiveStream.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

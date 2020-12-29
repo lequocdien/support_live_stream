@@ -1,0 +1,726 @@
+[{
+  "_id": {
+    "$oid": "5fd9524ff66249c10142f6ec"
+  },
+  "PageId": "102507445016922",
+  "PageName": "ABC",
+  "Categories": [
+    {
+      "CategoryId": "200600219953504",
+      "CategoryName": "Mua sắm & Bán lẻ"
+    },
+    {
+      "CategoryId": "2612",
+      "CategoryName": "Cộng đồng"
+    },
+    {
+      "CategoryId": "152880021441864",
+      "CategoryName": "Tổ chức cộng đồng"
+    }
+  ],
+  "About": "Hỗ trợ lọc số điện thoại, phát hiện từ khóa trong bình luận, tự động xóa bình luận, tự động gửi tin nhắn riêng.",
+  "Address": "182 Lã Xuân Oai, Thành phố Hồ Chí Minh 80000",
+  "Link": "https://www.facebook.com/102507445016922",
+  "Emails": [
+    "dql1998@gmail.com"
+  ],
+  "Website": "https://facebook.com",
+  "FanCount": 0,
+  "NewLikeCount": 0,
+  "CheckinCount": 0,
+  "CanCheckin": true,
+  "CanPost": true,
+  "CreatedTime": {
+    "$date": "2020-12-27T15:20:42.881Z"
+  },
+  "Videos": [
+    {
+      "VideoId": "124462136154786",
+      "Video": {
+        "DisplayVideoId": "307856033834368"
+      },
+      "Status": "VOD",
+      "Title": "Test Livestream",
+      "Description": "Mô tả Test Livestream",
+      "PermalinkUrl": "/102507445016922/videos/307856033834368/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-17T05:44:16Z"
+      }
+    },
+    {
+      "VideoId": "124464219487911",
+      "Video": {
+        "DisplayVideoId": "1552043751852332"
+      },
+      "Status": "VOD",
+      "Title": "Demo",
+      "Description": "Demo Video Livestream",
+      "PermalinkUrl": "/102507445016922/videos/1552043751852332/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-17T05:50:42Z"
+      }
+    },
+    {
+      "VideoId": "124468536154146",
+      "Video": {
+        "DisplayVideoId": "1324217841286771"
+      },
+      "Status": "VOD",
+      "Title": "Demo2",
+      "Description": "Demo livestream 2",
+      "PermalinkUrl": "/102507445016922/videos/1324217841286771/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-17T06:05:12Z"
+      }
+    },
+    {
+      "VideoId": "124627526138247",
+      "Video": {
+        "DisplayVideoId": "675681926431438"
+      },
+      "Status": "VOD",
+      "Title": "demo3",
+      "Description": "demo3",
+      "PermalinkUrl": "/102507445016922/videos/675681926431438/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-17T14:08:06Z"
+      }
+    },
+    {
+      "VideoId": "127118959222437",
+      "Video": {
+        "DisplayVideoId": "318606212652087"
+      },
+      "Status": "VOD",
+      "Title": "add sentiment nlp",
+      "Description": "add sentiment nlp",
+      "PermalinkUrl": "/102507445016922/videos/318606212652087/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-24T04:13:37Z"
+      }
+    },
+    {
+      "VideoId": "127212395879760",
+      "Video": {
+        "DisplayVideoId": "1054089405068649"
+      },
+      "Status": "VOD",
+      "Title": "sentiment test",
+      "Description": null,
+      "PermalinkUrl": "/102507445016922/videos/1054089405068649/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-24T11:04:59Z"
+      }
+    },
+    {
+      "VideoId": "127226695878330",
+      "Video": {
+        "DisplayVideoId": "894484947982883"
+      },
+      "Status": "VOD",
+      "Title": "test",
+      "Description": null,
+      "PermalinkUrl": "/102507445016922/videos/894484947982883/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": true,
+      "IsHidden": true,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-24T11:35:50Z"
+      }
+    },
+    {
+      "VideoId": "127647492502917",
+      "Video": {
+        "DisplayVideoId": "216622169916300"
+      },
+      "Status": "VOD",
+      "Title": "demo",
+      "Description": "demo",
+      "PermalinkUrl": "/102507445016922/videos/216622169916300/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-25T14:23:25Z"
+      }
+    },
+    {
+      "VideoId": "128182542449412",
+      "Video": {
+        "DisplayVideoId": "736632900610221"
+      },
+      "Status": "VOD",
+      "Title": "demo livestream",
+      "Description": "demo livestream",
+      "PermalinkUrl": "/102507445016922/videos/736632900610221/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": true,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-26T15:09:30Z"
+      }
+    },
+    {
+      "VideoId": "128190672448599",
+      "Video": {
+        "DisplayVideoId": "218112469803110"
+      },
+      "Status": "VOD",
+      "Title": "test demo",
+      "Description": "test demo",
+      "PermalinkUrl": "/102507445016922/videos/218112469803110/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-26T15:18:48Z"
+      }
+    },
+    {
+      "VideoId": "128191482448518",
+      "Video": {
+        "DisplayVideoId": "3525842714119395"
+      },
+      "Status": "VOD",
+      "Title": "test",
+      "Description": "test",
+      "PermalinkUrl": "/102507445016922/videos/3525842714119395/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": true,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-26T15:19:59Z"
+      }
+    },
+    {
+      "VideoId": "128846345716365",
+      "Video": {
+        "DisplayVideoId": "176697910810193"
+      },
+      "Status": "VOD",
+      "Title": "test",
+      "Description": "test",
+      "PermalinkUrl": "/102507445016922/videos/176697910810193/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": true,
+      "IsSendWhenDetectedGoodWord": true,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [
+        "mua",
+        "nhận",
+        "lấy"
+      ],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-27T14:49:05Z"
+      }
+    },
+    {
+      "VideoId": "128858795715120",
+      "Video": {
+        "DisplayVideoId": "3581654351910398"
+      },
+      "Status": "VOD",
+      "Title": null,
+      "Description": null,
+      "PermalinkUrl": "/102507445016922/videos/3581654351910398/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Xác nhận đặt hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Xác nhận"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-27T15:03:41Z"
+      }
+    },
+    {
+      "VideoId": "128892952378371",
+      "Video": {
+        "DisplayVideoId": "230390228526537"
+      },
+      "Status": "VOD",
+      "Title": null,
+      "Description": null,
+      "PermalinkUrl": "/102507445016922/videos/230390228526537/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": true,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": false,
+      "IsHidden": false,
+      "GoodWords": [
+        "mua"
+      ],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Chào bạn, bạn vui lòng cung cấp số điện thoại và địa chỉ nhận hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Đi đến website"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-27T15:43:07Z"
+      }
+    },
+    {
+      "VideoId": "128905112377155",
+      "Video": {
+        "DisplayVideoId": "3823043881074530"
+      },
+      "Status": "VOD",
+      "Title": "tét",
+      "Description": null,
+      "PermalinkUrl": "/102507445016922/videos/3823043881074530/",
+      "LiveViews": "0",
+      "IsSendWhenDetectedPhone": false,
+      "IsSendWhenDetectedGoodWord": false,
+      "IsDeleteWhenDetectedBadWord": false,
+      "IsHiddenWhenNegSentiment": true,
+      "IsHidden": false,
+      "GoodWords": [],
+      "BadWords": [],
+      "ReplyTemplate": {
+        "Recipient": {
+          "CommentId": ""
+        },
+        "Message": {
+          "Attachment": {
+            "Type": "template",
+            "Payload": {
+              "TemplateType": "button",
+              "Text": "Chào bạn, bạn vui lòng cung cấp số điện thoại và địa chỉ nhận hàng.",
+              "Buttons": [
+                {
+                  "Type": "web_url",
+                  "Url": "https://github.com/lequocdien",
+                  "Title": "Đi đến website"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "CreationTime": {
+        "$date": "2020-12-27T15:56:09Z"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdaece86f10ec567f93f08b"
+  },
+  "PageId": "100721908354390",
+  "PageName": "My bot",
+  "Categories": [
+    {
+      "CategoryId": "200600219953504",
+      "CategoryName": "Mua sắm & Bán lẻ"
+    }
+  ],
+  "About": null,
+  "Address": null,
+  "Link": "https://www.facebook.com/100721908354390",
+  "Emails": null,
+  "Website": null,
+  "FanCount": 0,
+  "NewLikeCount": 0,
+  "CheckinCount": 0,
+  "CanCheckin": true,
+  "CanPost": true,
+  "Videos": [],
+  "CreatedTime": {
+    "$date": "2020-12-17T05:31:07.769Z"
+  }
+},{
+  "_id": {
+    "$oid": "5fdaece96f10ec567f93f08c"
+  },
+  "PageId": "683006508551407",
+  "PageName": "Dieter",
+  "Categories": [
+    {
+      "CategoryId": "2612",
+      "CategoryName": "Cộng đồng"
+    }
+  ],
+  "About": null,
+  "Address": null,
+  "Link": "https://www.facebook.com/683006508551407",
+  "Emails": null,
+  "Website": null,
+  "FanCount": 64,
+  "NewLikeCount": 64,
+  "CheckinCount": 0,
+  "CanCheckin": true,
+  "CanPost": true,
+  "Videos": [],
+  "CreatedTime": {
+    "$date": "2020-12-17T05:31:08.271Z"
+  }
+}]

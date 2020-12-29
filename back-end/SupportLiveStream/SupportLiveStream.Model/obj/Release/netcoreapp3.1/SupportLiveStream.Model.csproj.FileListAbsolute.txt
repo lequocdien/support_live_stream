@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\bin\Release\netcoreapp3.1\SupportLiveStream.Model.deps.json
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\bin\Release\netcoreapp3.1\SupportLiveStream.Model.dll
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\bin\Release\netcoreapp3.1\SupportLiveStream.Model.pdb
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\obj\Release\netcoreapp3.1\SupportLiveStream.Model.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\obj\Release\netcoreapp3.1\SupportLiveStream.Model.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\obj\Release\netcoreapp3.1\SupportLiveStream.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\obj\Release\netcoreapp3.1\SupportLiveStream.Model.dll
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\obj\Release\netcoreapp3.1\SupportLiveStream.Model.pdb
+C:\Users\ASUS\Desktop\support_live_stream\back-end\SupportLiveStream\SupportLiveStream.Model\obj\Release\netcoreapp3.1\SupportLiveStream.Model.csprojAssemblyReference.cache

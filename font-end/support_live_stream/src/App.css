@@ -1,0 +1,52 @@
+.App-logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.App-sider{
+  /* min-width: 300px!important; */
+}
+
+.App-header{
+
+}
+
+.App-content{
+  padding: 24px 24px 0px 24px;
+  min-height: 280px;
+}
+
+.App-content-header{
+  margin: 0px 0px 16px 0px;
+}
+
+.App-trigger{
+  color: white;
+  font-size: 30px;
+  line-height: 64px;
+}
+
+.App-content-body{
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+}
+
+.App-footer{
+  text-align: center;
+}
+
+.LiveComment-list .ant-spin-nested-loading {
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.LiveComment-list .ant-card.ant-card-bordered{
+  height: 100%;
+}
+
+.ManagerAccount-my_account .ant-col{
+  width: 100%;
+}
